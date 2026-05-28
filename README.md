@@ -37,3 +37,7 @@ A simple Rock Paper Scissor game made using Python.
 
 ```python
 python rock_paper_scissor.py
+
+## Author
+
+Created by Naitik as a beginner Python project.
